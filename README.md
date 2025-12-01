@@ -39,8 +39,7 @@ Dataset Source:
 |------|---------|
 | Python | Core language |
 | Pandas | Data Cleaning & EDA |
-| NumPy | Computations |
-| Matplotlib / Seaborn | Visualizations |
+| Matplotlib | Visualizations |
 | Jupyter Notebook | Implementation |
 
 ---
