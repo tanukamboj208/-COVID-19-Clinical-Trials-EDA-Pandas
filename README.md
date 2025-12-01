@@ -22,7 +22,7 @@ The goal is to explore trends, missing data patterns, trial status, countries in
 
 - Understand the dataset structure and contents  
 - Perform cleaning & preprocessing  
-- Handle missing values logically (MCAR, MAR, NMAR classification)  
+- Handle missing values logically  
 - Create new derived features (e.g., Country extracted from Location)  
 - Perform statistical analysis  
 - Generate meaningful visualizations  
@@ -37,6 +37,7 @@ The goal is to explore trends, missing data patterns, trial status, countries in
 | Python | Core language |
 | Pandas | Data Cleaning & EDA |
 | Matplotlib | Visualizations |
+| Sciket-learn | Machine Learning |
 | Jupyter Notebook | Implementation |
 
 ---
