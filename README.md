@@ -16,9 +16,6 @@
 This project performs **Exploratory Data Analysis (EDA)** on a publicly available dataset containing **COVID-19 clinical trials** data.  
 The goal is to explore trends, missing data patterns, trial status, countries involved, phases, demographics, and other important variables.
 
-Dataset Source:  
-➡️ ClinicalTrials.gov (Referenced in project PDF)
-
 ---
 
 ## 🎯 Project Objectives
